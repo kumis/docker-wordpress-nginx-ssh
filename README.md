@@ -4,7 +4,7 @@
 
 [![Join the chat at https://gitter.im/tlongren/docker-wordpress-nginx-ssh](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tlongren/docker-wordpress-nginx-ssh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-A Dockerfile that installs the latest wordpress, nginx, php-apc and php-fpm, and openssh. Based heavily on [this](https://registry.hub.docker.com/u/oskarhane/docker-wordpress-nginx-ssh/).
+A Dockerfile that installs the latest wordpress, nginx, php-apc and php-fpm, and openssh. Based Heavely on [this]Based heavily on [this](https://registry.hub.docker.com/u/oskarhane/docker-wordpress-nginx-ssh/). and RE Based a liitle on [this](https://hub.docker.com/r/tlongren/docker-wordpress-nginx-ssh/).
 
 ###Todo:
 
